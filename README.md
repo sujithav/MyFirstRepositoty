@@ -1,0 +1,2 @@
+# MyFirstRepositoty
+Trying out github
