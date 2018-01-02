@@ -1,2 +1,2 @@
 # MyFirstRepositoty
-Trying out github
+Trying out github for the first time
